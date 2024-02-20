@@ -32,3 +32,6 @@ Express.js
 MongoDB
 bcrypt
 password-validator
+
+Discription:
+If you want to test the API you can test on POSTMAN and conncet to mongodb
